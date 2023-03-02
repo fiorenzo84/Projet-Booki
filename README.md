@@ -2,6 +2,8 @@
 
 > Version du projet Booki de la formation Openclassrooms, realisé en html et css uniquement.
 
+Lien navigateur ===> https://fiorenzo84.github.io/Projet-Booki/
+
 ### Scénario //
 ![logo booki](https://user-images.githubusercontent.com/111232852/221917067-cc6cc860-3daa-4afa-b230-6dda63ffbb53.png)
 
